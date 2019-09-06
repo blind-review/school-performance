@@ -1,8 +1,8 @@
 ---
 title: How does school choice effect measures of school performance?
-author: Dave Kinkead
-email: d.kinkead@uq.edu.au
-status: JASS Submission
+author: blind-review
+email: blind-review
+status: DHQ Submission
 citation-style: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 link-citations: true
 bibliography: /Users/davekinkead/Dropbox/Research/readings/.library.bibtex

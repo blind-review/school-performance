@@ -1,7 +1,7 @@
 ---
 title: What do student results tell us about school performance?
-author: Dave Kinkead
-email: d.kinkead@uq.edu.au
+author: blind-review
+email: blind-review
 status: abstract
 license: CC BY SA
 ---
